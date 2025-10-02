@@ -2,6 +2,8 @@
 
 A web-based terminal emulator with an integrated file system, built using xterm.js and Node.js. This project provides a fully functional terminal experience in the browser with persistent file storage and multiple tab support.
 
+**[Try it live!](https://326-mini-terminal.vercel.app/)**
+
 ## Features
 
 ### Terminal Emulation
